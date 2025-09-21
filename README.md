@@ -1,12 +1,12 @@
 # 🛰️ Satellite-Image-Classification
-🚀 Satellite Image Classification (EuroSAT + ResNet18)  This repository trains a CNN (ResNet18) to classify EuroSAT satellite images into 10 land-cover classes. It includes training, evaluation, plots, sample predictions and an animated GIF demo.
+🚀 Satellite Image Classification (EuroSAT + Ai Model)  This repository trains a CNN (ResNet18) to classify EuroSAT satellite images into 10 land-cover classes. It includes training, evaluation, plots, sample predictions and an animated GIF demo.
 
 <p align="center">
   <img src="outputs/land.jpg" alt="Sample Predictions" width="600"/>
 </p>
 
 ---
-## 🚩 Purpose (at-a-glance)
+## 🚩 Purpose
 This repository demonstrates a **practical pipeline** to classify land cover from satellite imagery using deep learning (on the EuroSAT dataset). The goal is to show how AI can be applied to **real aerospace tasks** such as remote sensing, UAV/aircraft terrain awareness, and satellite onboard analytics.
 
 **Key idea:** take satellite image tiles → run a trained CNN → get land-cover labels → use results for mapping, monitoring, or decision support.
