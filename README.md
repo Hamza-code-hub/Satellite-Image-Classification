@@ -2,7 +2,7 @@
 🚀 Satellite Image Classification (EuroSAT + Ai Model)  This repository trains a CNN (ResNet18) to classify EuroSAT satellite images into 10 land-cover classes. It includes training, evaluation, plots, sample predictions and an animated GIF demo.
 
 <p align="center">
-  <img src="outputs/land.jpg" alt="Sample Predictions" width="600"/>
+  <img src="outputs/land.png" alt="Sample Predictions" width="600"/>
 </p>
 
 ---
