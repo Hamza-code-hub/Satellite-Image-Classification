@@ -4,7 +4,6 @@
 <p align="center">
   <img src="outputs/land.png" alt="Sample Predictions" width="600"/>
 </p>
-
 ---
 ## 🚩 Purpose
 This repository demonstrates a **practical pipeline** to classify land cover from satellite imagery using deep learning (on the EuroSAT dataset). The goal is to show how AI can be applied to **real aerospace tasks** such as remote sensing, UAV/aircraft terrain awareness, and satellite onboard analytics.
